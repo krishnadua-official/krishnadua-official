@@ -1,4 +1,5 @@
 Hi, I'm Krishna Dua 👋
+
 I'm a passionate Computer Engineering student at the University of California, Santa Cruz, driven by a love for problem-solving and impactful software solutions. I specialize in machine learning, cloud systems, networking, and full-stack development, and enjoy tackling real-world challenges from autonomous vehicles to network automation.
 
 📊 Projects
