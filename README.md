@@ -1,9 +1,9 @@
-Hi, I'm Krishna Dua 👋
+# Hi, I'm Krishna Dua 👋
 
 I'm a passionate Computer Engineering student at the University of California, Santa Cruz, driven by a love for problem-solving and impactful software solutions.
 I specialize in machine learning, cloud systems, networking, and full-stack development, and enjoy tackling real-world challenges from autonomous vehicles to network automation.
 
-📊 Projects
+## 📊 Projects
 
 Network Test Automation Suite
 - A Python-based automation framework that streamlines Wi-Fi testing, enabling diagnostics across connectivity, throughput, security, and multi-device QoS.
@@ -20,7 +20,7 @@ Stock Sentiment Analysis
 - Automated reporting for batch inference and created dashboards for visualizing model performance.
 - Technologies: Python, NLP, Numpy, Matplotlib, Pandas, Scikit-learn
 
-👨💻 Experience
+## 👨💻 Experience
 
 Software Developer Intern – ClusterFlow (Jul 2025 – Present)
 
@@ -42,14 +42,15 @@ Engineering Intern – Raytheon Technologies (Jul 2022 – Aug 2022)
 - Built an automated warning system with detection, alert mechanisms, and backup protocols.
 - Designed and simulated 3D CAD models to optimize system efficiency.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 - Programming Languages: Python, C++, C, JavaScript, HTML/CSS
 - Frameworks & Tools: React, Node.js, Angular, Firebase, Git, Figma
 - Machine Learning: Scikit-learn, Pandas, NumPy, NLP
 - Systems & Cloud: Docker, Kubernetes, GitHub, GitLab
 - Networking: TCP/IP, iPerf, DNS, DHCP
 
-📚 Education
+## 📚 Education
+
 University of California, Santa Cruz
 Santa Cruz, CA
 Bachelor of Science in Computer Engineering (GPA: 3.7/4.0)
@@ -57,7 +58,8 @@ Expected Graduation: December 2026
 
 Relevant Coursework: Data Structures and Algorithms, Systems Programming, Machine Learning, Computer Architecture, Advanced Python Programming.
 
-🌐 Connect with Me
+## 🌐 Connect with Me
+
 Feel free to explore my repositories and reach out for collaboration or questions!
 📧 Email: krishnadua.official@gmail.com
 📞 Phone: 408-887-4385
