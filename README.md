@@ -1,8 +1,10 @@
 Hi, I'm Krishna Dua 👋
 
-I'm a passionate Computer Engineering student at the University of California, Santa Cruz, driven by a love for problem-solving and impactful software solutions. I specialize in machine learning, cloud systems, networking, and full-stack development, and enjoy tackling real-world challenges from autonomous vehicles to network automation.
+I'm a passionate Computer Engineering student at the University of California, Santa Cruz, driven by a love for problem-solving and impactful software solutions.
+I specialize in machine learning, cloud systems, networking, and full-stack development, and enjoy tackling real-world challenges from autonomous vehicles to network automation.
 
 📊 Projects
+
 Network Test Automation Suite
 - A Python-based automation framework that streamlines Wi-Fi testing, enabling diagnostics across connectivity, throughput, security, and multi-device QoS.
 - Achieved a 90% reduction in manual test time and integrated real-time monitoring, modularized OOP design, and scalable plug-and-play test case support.
@@ -19,6 +21,7 @@ Stock Sentiment Analysis
 - Technologies: Python, NLP, Numpy, Matplotlib, Pandas, Scikit-learn
 
 👨💻 Experience
+
 Software Developer Intern – ClusterFlow (Jul 2025 – Present)
 
 Engineered Kubernetes health monitoring with auto-flagging and real-time alerting for system reliability.
